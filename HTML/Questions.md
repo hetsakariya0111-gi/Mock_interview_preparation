@@ -13,7 +13,7 @@ Not a programming language — no logic, just structure
 
 Tells the browser to use standards mode, not quirks mode
 Quirks mode = old compatibility rendering, inconsistent behavior
-HTML5 simplified it to just <!DOCTYPE html>
+HTML5 simplified it to just <!DOCTYPE html> 
 
 3. Basic structure of an HTML document
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
